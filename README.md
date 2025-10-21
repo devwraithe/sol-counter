@@ -9,6 +9,13 @@ This program demonstrates:
 
 ## ⚙️ Setup & Build
 
+Clone the project:
+
+```bash
+git clone https://github.com/devwraithe/sol-counter.git
+cd sol-counter
+```
+
 Make sure you have **Anchor**, **Rust**, and **Solana CLI** installed.
 
 ```bash
